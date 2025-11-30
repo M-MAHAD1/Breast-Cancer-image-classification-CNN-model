@@ -18,7 +18,7 @@ https://www.kaggle.com/paultimothymooney/breast-histopathology-images
   - `1` → Malignant  
 - All images are **50×50 RGB**  
 - Only a balanced subset was used due to storage/computation limits.  
-- Dataset was divided into:  
+- The dataset was divided into:  
   - **70% Training**  
   - **20% Validation**  
   - **10% Testing**
